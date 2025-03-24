@@ -3,7 +3,7 @@ import SimpleLightbox from 'simplelightbox';
 import 'izitoast/dist/css/iziToast.min.css';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-import { getPhotos } from './js/pixaby-api';
+import { getPhotos } from './js/pixabay-api';
 import { createGalleryCard } from './js/render-functions';
 
 const refs = {
